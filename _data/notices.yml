@@ -1,0 +1,54 @@
+---
+# - title: Example Event
+#   class: danger     # one of [success, info, warning, danger]
+#   site: freiburg    # Your site
+#   messages:
+#       - message: |
+#           Here you can write some message for your users, [markdown](#asdf) is permitted.
+#
+
+#- title: Downtime on the 23.10.2020 
+#  class: warning # one of [success, info, warning, danger]
+#  site: freiburg # Your site
+#  messages:
+#      - message: |
+#           On October 23th, we plan to update Usegalaxy.eu's codebase to the 20.09 Galaxy release. 
+#           We expect a short downtime during the day that might prevent you to submit new jobs. Please take it into account in your job schedule.
+
+#- title: Interactive tools are working again [11/01/2021] 
+#  class: info # one of [success, info, warning, danger]
+#  site: freiburg # Your site
+#  messages:
+#      - message: |
+#          The issue affecting the computing nodes serving interactive tools has been fixed. 
+#          Interactive tools are working properly now, but all previously running IT jobs have been stopped, so you will need to restart them. 
+#          Sorry for the inconvenience.
+
+- title: COVID-19 research!
+  class: success # one of [success, info, warning, danger]
+  site: freiburg # Your site
+  messages:
+      - message: |
+            Want to learn the best practices for the analysis of SARS-CoV-2 data using Galaxy?
+            Visit the Galaxy SARS-CoV-2 portal at [covid19.galaxyproject.org](https://covid19.galaxyproject.org).
+            We mirror <b>all public</b> SARS-CoV-2 data from ENA in a [Galaxy data library](https://bit.ly/usegalaxy-eu-covid19-data) for your convenience.
+            The Galaxy community also created [COVID-19 related trainings](https://training.galaxyproject.org/search?query=covid19) and we also maintain a 
+            [running document](https://docs.google.com/document/d/1Ajfy3RG-BOGTSdhQUMZ0hnGtePZplv-lK0rYzx8L-vo/preview#) with recent news.
+            Our new preprint about [**The landscape of SARS-CoV-2 RNA modifications**](https://galaxyproject.eu/posts/2020/07/19/drs_sars-cov-2-paper/) is out!
+
+# - title: Restricted compute capacity on the 18.02.2020 
+#   class: info # one of [success, info, warning, danger]
+#   site: freiburg # Your site
+#   messages:
+#       - message: |
+#           Due to maintenance work on the de.NBI cloud we need to shutdown large parts of our compute infrastructure on the
+#           18.02.2020. We are hopefull to keep the webserver running and accept jobs and workflows, but there will be a delay
+#           in processing them.
+
+#- title: Enough talking - time to act!
+#  class: danger # one of [success, info, warning, danger]
+#  site: freiburg # Your site
+#  messages:
+#      - message: |
+#          The Freiburg Galaxy team will be striking on 25.09.2020. No new jobs will be processed on that Friday!
+#          For more information please see our [blog post](https://usegalaxy-eu.github.io/posts/2020/09/11/we-are-striking-really/plain.html).
