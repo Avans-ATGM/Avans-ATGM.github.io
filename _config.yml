@@ -29,16 +29,9 @@ markdown: kramdown
 kramdown:
   toc_levels: 1..2
 
-scholar:
-  style: bioinformatics
-  group_by: year
-  order: descending
-  sort_by: year
-  group_order: descending
+plugins:
+   - jekyll-feed
 
-citation:
-    citation_style: apa
-    citation_locale: en
 
 # Requires new release of jekyll_analytics
 #jekyll_analytics:
