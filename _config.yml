@@ -28,9 +28,6 @@ sass:
 markdown: kramdown
 kramdown:
   toc_levels: 1..2
-#theme: minima
-plugins:
-  - jekyll-feed
 
 scholar:
   style: bioinformatics
