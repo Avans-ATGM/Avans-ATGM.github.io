@@ -51,10 +51,10 @@ header_links:
           url: /people
         #- name: Citations
           #url: /citations
-        - name: Tools
-          url: /tools
-        - name: About
-          url: /about
+        #- name: Tools
+        #  url: /tools
+        #- name: About
+        #  url: /about
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
