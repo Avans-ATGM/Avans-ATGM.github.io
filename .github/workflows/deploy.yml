@@ -12,6 +12,9 @@ jobs:
       matrix:
         ruby: [2.5]
     steps:
+      - name: Setup Ruby, JRuby and TruffleRuby
+        uses: ruby/setup-ruby@v1.126.0
+
       - uses: actions/checkout@v2
         with:
           fetch-depth: 0
