@@ -12,13 +12,10 @@ jobs:
       matrix:
         ruby: [2.5]
     steps:
-      - name: Setup Ruby, JRuby and TruffleRuby
-        uses: ruby/setup-ruby@v1.126.0
-
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
         with:
           fetch-depth: 0
-      - uses: actions/setup-ruby@v1.126.0
+      - uses: actions/setup-ruby@v1
         with:
           ruby-version: ${{ matrix.ruby }}
       - uses: actions/cache@v2
@@ -27,6 +24,7 @@ jobs:
           key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
           restore-keys: |
             ${{ runner.os }}-gems-
+            
       - name: Install dependencies
         run: |
           gem install bundler
