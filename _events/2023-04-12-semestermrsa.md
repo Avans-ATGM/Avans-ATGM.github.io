@@ -16,4 +16,5 @@ location:
   country: Netherlands
 ---
 
-use this link to join the tiaas training https://galaxy.atgm.avans.nl/join-training/semestermrsa
+Log first in or create an account to participitate in the training.
+Click  [here]https://galaxy.atgm.avans.nl/join-training/semestermrsa to join the training
