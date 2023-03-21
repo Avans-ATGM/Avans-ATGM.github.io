@@ -13,7 +13,7 @@ The preliminary program can be found on the course website. (Several modules are
 
 :date: May 22-26, 2023
 :arrow_right: Course webpage: https://gxy.io/smorgasbord3
-:writing_hand: Registration is now open!
+:writing_hand: Registration is now open! https://docs.google.com/forms/d/e/1FAIpQLSclNKwmjclGeOZuZgc19cRjovB61PNLxUZAym2UX0vOKfRLeA/viewform
 :money_with_wings: Free
 
 Hope to see you all in May!
