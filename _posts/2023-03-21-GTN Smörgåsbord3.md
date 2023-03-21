@@ -1,0 +1,21 @@
+---
+site: atgm
+tags: [announcement]
+title: "GTN Smörgåsbord 3"
+---
+
+
+We are happy to announce that the next edition of the GTN Smörgåsbord training event will take place on May 22-26, 2023! :tada:
+
+It will once again be free, online, self-paced, and choose-your-own-adventure style. It will feature all the content of previous editions, plus lots more!
+
+The preliminary program can be found on the course website. (Several modules are still in development, so check back regularly for the updated program!)
+
+:date: May 22-26, 2023
+:arrow_right: Course webpage: https://gxy.io/smorgasbord3
+:writing_hand: Registration is now open!
+:money_with_wings: Free
+
+Hope to see you all in May!
+
+Saskia & Helena on behalf of the GTN community
