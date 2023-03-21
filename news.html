@@ -120,6 +120,81 @@
               <div class="row" style="padding: 1em">
                 <div>
                   
+                    <a href="/posts/2023/03/21/GTN-Sm%C3%B6rg%C3%A5sbord3/">
+                  
+                    <h2 class="title">GTN Smörgåsbord 3</h2>
+                  </a>
+                  <span class="date">
+                    
+
+
+
+
+
+
+
+
+
+
+
+                  </span>
+                  <span class="date">
+                    March 21, 2023
+                  </span>
+                  <a href="javascript:window.location.href=window.location.href.split('?')[0] + '?tag='"
+                  class="btn btn-success btn-xs tag-element" role="button"></a>
+                  
+    
+        <a href="javascript:window.location.href=window.location.href.split('?')[0] + '?tag=announcement'"
+           class="btn btn-primary btn-xs tag-element" role="button">announcement</a>
+    
+
+
+                </div>
+                <div class="news-content">
+                  <div><p>We are happy to announce that the next edition of the GTN Smörgåsbord training event will take place on May 22-26, 2023! :tada:</p>
+
+<p>It will once again be free, online, self-paced, and choose-your-own-adventure style. It will feature all the content of previous editions, plus lots more!</p>
+
+<p>The preliminary program can be found on the course website. (Several modules are still in development, so check back regularly for the updated program!)</p>
+
+<p>:date: May 22-26, 2023
+:arrow_right: Course webpage: https://gxy.io/smorgasbord3
+:writing_hand: Registration is now open!
+:money_with_wings: Free</p>
+
+<p>Hope to see you all in May!</p>
+
+<p>Saskia &amp; Helena on behalf of the GTN community</p>
+</div>
+                </div>
+              </div>
+            </div>
+            ${counter === 3 ? '</div>' : ''}
+            `
+        if (counter === 3) {
+          counter = 0
+        }
+
+        news.append(div);
+    }
+    tags = []
+
+
+     
+      tags.push(`announcement`)
+     
+      tags.push(``)
+
+    if (!userTag ? true : tags.includes(userTag)) {
+      counter++
+
+      div = `
+            ${counter === 3 ? '<div class="row">' : ''}
+            <div class="col-md-4 announcement news ">
+              <div class="row" style="padding: 1em">
+                <div>
+                  
                     <a href="/posts/2022/12/04/Tiaas-is-deployed/">
                   
                     <h2 class="title">Tiaas is deployed</h2>
