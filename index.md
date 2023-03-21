@@ -13,5 +13,5 @@ layout: home
 </div>
 <img src="/images/banner-email.png" alt="The Gallantries, Galaxy Training Network & Galaxy Community are happy to announce: GTN Smorgasbord 3, gxy.io/smorgasbord3 a free galaxy training event, online, from may 22-26 2023. Topics covered include SARS-CoV-2, RNA-Seq, Single Cell, Proteomics, Machine Learning, Annotation, Climate, Ecology, Cancer, RO-Crates, and more! An EU flag in the corner indicates that this event is made possible with the support of the european union. A waterman butterfly projection map adorns the other corner suggesting a world wide event. Links are included to @gtn@mstdn.science @gallantries@mstdn.science, and two twitter urls @gxyTraining and @gallantries_eu">
 
-<iframe src="https://galaxy.atgm.avans.nl/grafana/d-solo/000000004/galaxy?from=1679381542759&to=1679392342759&orgId=1&theme=light&panelId=54" width="500" height="300" frameborder="0"></iframe>
-<iframe src="https://galaxy.atgm.avans.nl/grafana/d-solo/000000004/galaxy?from=1679381572017&to=1679392372017&orgId=1&theme=light&panelId=38" width="500" height="300" frameborder="0"></iframe>
+<iframe src="https://galaxy.atgm.avans.nl/grafana/d-solo/000000004/galaxy?orgId=1&theme=light&panelId=54" width="500" height="300" frameborder="0"></iframe>
+<iframe src="https://galaxy.atgm.avans.nl/grafana/d-solo/000000004/galaxy?orgId=1&theme=light&panelId=38" width="500" height="300" frameborder="0"></iframe>
