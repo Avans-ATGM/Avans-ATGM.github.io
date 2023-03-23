@@ -15,3 +15,4 @@ layout: home
 
 <iframe src="https://galaxy.atgm.avans.nl/grafana/d-solo/000000004/galaxy?orgId=1&theme=light&panelId=54" width="500" height="300" frameborder="0"></iframe>
 <iframe src="https://galaxy.atgm.avans.nl/grafana/d-solo/000000004/galaxy?orgId=1&theme=light&panelId=38" width="500" height="300" frameborder="0"></iframe>
+<iframe src="https://galaxy.atgm.avans.nl/grafana/d-solo/000000004/galaxy?orgId=1&theme=light&panelId=103" width="500" height="300" frameborder="0"></iframe>
