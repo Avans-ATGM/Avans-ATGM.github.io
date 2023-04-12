@@ -1,7 +1,7 @@
 ---
 site: atgm
 tags: [training]
-title: "Semesterproject MRSA practical 2"
+title: "Semesterproject MRSA practical"
 starts: 2023-04-12
 ends: 2022-04-12
 organiser:
@@ -17,4 +17,4 @@ location:
 ---
 
 Log first in or create an account to participitate in the training.
-follow this link https://galaxy.atgm.avans.nl/join-training/semestermrsa22223 to join the training
+follow this link https://galaxy.atgm.avans.nl/join-training/semestermrsa to join the training
