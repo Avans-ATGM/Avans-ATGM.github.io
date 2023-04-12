@@ -17,4 +17,4 @@ location:
 ---
 
 Log first in or create an account to participitate in the training.
-follow this link https://galaxy.atgm.avans.nl/join-training/semestermrsa22223 to join the training
+follow this link https://galaxy.atgm.avans.nl/join-training/semestermrsa to join the training
