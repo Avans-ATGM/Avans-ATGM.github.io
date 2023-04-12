@@ -1,7 +1,7 @@
 ---
 site: atgm
 tags: [training]
-title: "Semesterproject MRSA practical"
+title: "Semesterproject MRSA practical 2"
 starts: 2023-04-19
 ends: 2022-04-19
 organiser:
