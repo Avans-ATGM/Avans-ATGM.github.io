@@ -19,3 +19,13 @@ atgm:
         gitter: Dirowa
         #orcid: 0000-0001-9760-8992
         galaxyadmin: true
+    Sander:
+        name: Sander Boden
+        title: Bioinformatics technician
+        email: s.boden1@avans.nl
+        #phone:
+        #location: "Build.: 079, Room: -1005a"
+        #location_link: "https://goo.gl/maps/zEL3g3KVE8Q2"
+        gitter: SanderBoden
+        orcid: 0000-0002-9799-849X
+        galaxyadmin: true
