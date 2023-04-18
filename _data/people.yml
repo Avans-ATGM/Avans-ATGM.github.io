@@ -26,7 +26,8 @@ atgm:
         #phone:
         #location: "Build.: 079, Room: -1005a"
         #location_link: "https://goo.gl/maps/zEL3g3KVE8Q2"
-        gitter: bazante1 
+        # gitter: bazante1
+        github: bazante1
         # orcid: 0000-0002-9799-849X
         galaxyadmin: true
     Sander:
@@ -37,5 +38,6 @@ atgm:
         #location: "Build.: 079, Room: -1005a"
         #location_link: "https://goo.gl/maps/zEL3g3KVE8Q2"
         gitter: sanderboden
+        github: sanderboden
         orcid: 0000-0002-9799-849X
         galaxyadmin: true

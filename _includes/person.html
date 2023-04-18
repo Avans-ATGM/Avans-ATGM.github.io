@@ -12,7 +12,7 @@
           <li><a href="mailto:{{ include.data[1].email }}" title="Email"><i class="fa fa-envelope"></i>{{ include.data[1].email }}</a></li>
         {% endif %}
         {% if include.data[0] %}
-        <li><a href="https://github.com/{{ include.data[0] }}" title="GitHub"><i class="fa fa-github" aria-hidden="true"></i>{{ include.data[0] }}</a></li>
+        <li><a href="https://github.com/{{ include.data[1].github }}" title="GitHub"><i class="fa fa-github" aria-hidden="true"></i>{{ include.data[0] }}</a></li>
         {% endif %}
         {% if include.data[1].phone %}
         <li><i class="fa fa-phone" aria-hidden="true"></i>{{ include.data[1].phone }}</li>
