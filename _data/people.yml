@@ -9,15 +9,25 @@ atgm:
     #    gitter: hexylena
     #    orcid: 0000-0001-9760-8992
     #    galaxyadmin: true
-    Dirowa:
-        name: Donny Vrins
+    # Dirowa:
+    #     name: Donny Vrins
+    #     title: Bioinformatics technician
+    #     email: dl.vrins@avans.nl
+    #     #phone:
+    #     #location: "Build.: 079, Room: -1005a"
+    #     #location_link: "https://goo.gl/maps/zEL3g3KVE8Q2"
+    #     gitter: Dirowa
+    #     #orcid: 0000-0001-9760-8992
+    #     galaxyadmin: true
+    Bazante:
+        name: Bazante Sanders
         title: Bioinformatics technician
-        email: dl.vrins@avans.nl
+        email: bk.sanders@avans.nl
         #phone:
         #location: "Build.: 079, Room: -1005a"
         #location_link: "https://goo.gl/maps/zEL3g3KVE8Q2"
-        gitter: Dirowa
-        #orcid: 0000-0001-9760-8992
+        gitter: bazante1 
+        # orcid: 0000-0002-9799-849X
         galaxyadmin: true
     Sander:
         name: Sander Boden
@@ -26,6 +36,6 @@ atgm:
         #phone:
         #location: "Build.: 079, Room: -1005a"
         #location_link: "https://goo.gl/maps/zEL3g3KVE8Q2"
-        gitter: SanderBoden
+        gitter: sanderboden
         orcid: 0000-0002-9799-849X
         galaxyadmin: true
